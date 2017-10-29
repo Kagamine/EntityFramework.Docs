@@ -28,3 +28,4 @@ For example:
 * `Microsoft.EntityFrameworkCore.SqlServer`
 * `Npgsql.EntityFrameworkCore.PostgreSQL`
 * `EntityFrameworkCore.SqlServerCompact40`
+* `Pomelo.EntityFrameworkCore.MySql`
